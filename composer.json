@@ -1,0 +1,8 @@
+{
+  "name": "y0x54a/hi-packagist",
+  "description": "y0x54a/hi-packagist",
+  "config": {
+    "sort-packages": true,
+    "optimize-autoloader": true
+  }
+}
